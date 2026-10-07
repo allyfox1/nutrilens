@@ -1,0 +1,592 @@
+Source: NIH Office of Dietary Supplements, ImmuneFunction fact sheet (Consumer)
+
+Dietary Supplements for Immune Function and Infectious Diseases: Fact Sheet for Consumers
+Dietary Supplements for Immune Function and Infectious Diseases: Fact Sheet for Consumers (original version)
+Dietary Supplements for Immune Function and Infectious Diseases: Fact Sheet for Consumers
+Table of Contents
+How does your immune system work?
+What do we know about specific dietary supplement ingredients and immune function?
+Vitamins and Minerals
+Vitamins
+Vitamin A
+Vitamin C
+Vitamin D
+Vitamin E
+Minerals
+Selenium
+Zinc
+Botanicals
+Andrographis
+Echinacea
+Elderberry (European Elder)
+Garlic
+Ginseng
+Tea and tea catechins
+Other Ingredients
+Glutamine
+N-acetylcysteine and glutathione
+Omega-3 fatty acids
+Probiotics
+Do dietary supplements interact with medications or other supplements?
+Where can I find out more about dietary supplements and immune function?
+Disclaimer
+Glossary
+How does your immune system work?
+Your immune system is made up of cells, tissues, and organs that help fight viruses, bacteria, and other germs that cause infections and other diseases. For example, your skin helps prevent germs from getting inside your body. Cells that line your digestive tract also help protect against harmful germs that cause diseases. White blood cells try to destroy substances they recognize as foreign to your body. Some white blood cells also recognize germs they have been exposed to before and develop antibodies to defend against them in the future.
+What do we know about specific dietary supplement ingredients and immune function?
+Your immune system needs certain vitamins and minerals to work properly. These include vitamin C, vitamin D, and zinc. Herbal supplements, probiotics, and other dietary supplement ingredients might also affect your immune system.
+Eating a variety of nutritious foods can give you enough vitamins, minerals, and other nutrients for a healthy immune system. However, you might wonder whether taking certain dietary supplements can improve your body’s immune system and its ability to fight infections.
+This fact sheet describes what we know about the effectiveness and safety of common vitamins, minerals, and other dietary supplement ingredients that might affect immune function.
+Dietary supplement ingredients are presented in each section in alphabetical order.
+The
+health professional version
+of this fact sheet includes more details and references to the scientific literature.
+Vitamins and Minerals
+Getting enough vitamins and minerals through the foods and beverages you consume is important for a healthy immune system. It’s especially important to get enough of vitamins A, B6, B12, C, D, E, and K as well as folate, copper, iodine, iron, magnesium, selenium, and zinc.
+If your diet doesn’t include adequate amounts of certain vitamins and minerals, your immune system will not be able to function as well as it could, you might be more likely to get infections, and you might not recover as well. If your health care provider determines that you are not getting enough of a specific nutrient, vitamin and mineral supplements can help increase intakes to recommended amounts. In most cases, however, if you don’t have a deficiency, increasing your intake of vitamins and minerals through dietary supplements doesn’t help prevent infections or help you recover from them any faster.
+Vitamins
+Vitamin A
+Vitamin A is an essential nutrient found in many foods. It exists in two different forms:
+Preformed vitamin A
+is found in fish, organ meats (such as liver), dairy products, and eggs.
+Provitamin A carotenoids
+are turned into vitamin A by your body. They are found in fruits, vegetables, and other plant-based products. The most common provitamin A carotenoid in foods and dietary supplements is beta-carotene.
+Vitamin A is important for healthy immune function as well as vision, reproduction, growth, and development.
+Vitamin A deficiency is rare in the United States, but it is common in many low- and middle-income countries.
+The recommended daily amount (known as Recommended Dietary Allowance or RDA) ranges from 300 to 1,200 microgram (mcg) retinol activity equivalents (RAE) for infants, children, and teens, depending on age, and from 700 to 1,300 mcg RAE for adults.
+Does it work?
+Diarrhea in children
+Children with a vitamin A deficiency are more likely to get diarrhea caused by germs. These children also have a higher chance of dying of diarrhea, especially in sub-Saharan Africa and south Asia.
+Research suggests that vitamin A supplements lower the risk and severity of diarrhea in children in low- and middle-income countries. However, vitamin A supplementation might not help very young infants in these countries.
+HIV infection
+HIV infection can decrease your appetite and weaken your body’s ability to use nutrients from food. HIV can also increase the risk of related health problems, such as diarrhea and respiratory diseases.
+It’s not clear if vitamin A supplements lower the risk of spreading HIV or keep the disease from getting worse. Some studies in young children with HIV have found that vitamin A supplements help lower the risk of death. However, it’s not clear whether vitamin A supplements affect the risk of diarrhea or respiratory infections in young children with HIV. Other studies in adults with HIV have found that vitamin A supplements do not improve immune function.
+Research in pregnant women with HIV has found that vitamin A supplements do not help reduce the chance of passing HIV from mother to infant. However, one study found that pregnant women with HIV who took vitamin A were more likely to carry their babies to full-term.
+Measles in children
+In developing countries where vitamin A deficiency is common, children with measles are more likely to have severe symptoms and may die from the disease. In these children, taking vitamin A supplements can help prevent new cases of measles but probably doesn’t lower their risk of dying of measles.
+Pneumonia and other respiratory infections in children
+Children who don’t get enough vitamin A might have a higher risk of respiratory infections. However, it’s not clear whether taking vitamin A supplements affects the risk or severity of pneumonia and other respiratory infections. Some studies in young children with pneumonia have found that vitamin A supplements shorten the length of time children need to be hospitalized and decrease the number of days they have symptoms (such as fever and cough). However, other studies in children have found that vitamin A supplements don’t lower the risk of getting or dying from pneumonia or other respiratory infections. In addition, some research suggests that taking higher than recommended doses of vitamin A supplements might increase the risk of respiratory infections in children who already get enough nutrients from the foods they eat.
+Is it safe?
+Preformed vitamin A is safe at daily intakes up to 600 to 2,800 mcg for infants, children, and teens, depending on age, and up to 3,000 mcg for adults. There are no upper limits for beta-carotene and other forms of provitamin A.
+Getting too much preformed vitamin A can cause severe headache, blurred vision, nausea, dizziness, muscle aches, and problems with coordination. In severe cases, getting too much preformed vitamin A can even lead to coma and death.
+If you are pregnant, taking too much preformed vitamin A can cause birth defects, including abnormal eyes, skull, lungs, and heart. If you are or might be pregnant or breastfeeding, you should not take high-dose supplements of preformed vitamin A.
+High intakes of beta-carotene (provitamin A) do not cause the same problems as preformed vitamin A. Consuming high amounts of beta-carotene can turn the skin yellow-orange, but this condition is harmless and goes away when you eat less of it. However, several studies have shown that smokers, former smokers, and people exposed to asbestos who take high-dose beta-carotene supplements have a higher risk of lung cancer and death.
+Vitamin A supplements might interact with some medications such as orlistat (used for weight loss), acitretin (used to treat psoriasis), and bexarotene (used to treat the skin effects of T-cell lymphoma).
+More information about vitamin A is available in the ODS consumer fact sheet on
+vitamin A
+.
+Vitamin C
+Vitamin C is an essential nutrient found in citrus fruits and many other fruits and vegetables. Vitamin C is an antioxidant and is important for healthy immune function. The body also needs vitamin C to make collagen.
+The RDA ranges from 15 to 115 milligrams (mg) for infants, children, and teens, depending on age, and from 75 to 120 mg for nonsmoking adults. People who smoke need 35 mg more than the RDA per day.
+Does it work?
+Common cold
+Taking vitamin C regularly might help decrease cold symptoms and reduce the number of days a cold lasts. It might also help reduce the risk of getting a cold in people who undergo extreme physical stress, such as marathon runners and soldiers stationed in very cold locations. However, taking vitamin C after coming down with a cold may not be helpful.
+Research suggests that vitamin C supplements might be more effective in people who do not get enough vitamin C from foods and beverages.
+Sepsis (using intravenous vitamin C, not vitamin C supplements)
+Sepsis is a life-threatening complication of an infection that can damage the body’s organs and tissues. It’s not clear whether high-dose intravenous (IV) vitamin C helps treat sepsis, and in some cases it might be harmful. In some studies, IV vitamin C reduced the risk of death, but in other studies it did not affect the risk of death or the amount of organ damage. Other research suggests that IV vitamin C might increase the risk of death or organ damage.
+Is it safe?
+Vitamin C is safe at daily intakes up to 400 to 1,800 mg for children and teens, depending on age, and up to 2,000 mg for adults. Taking higher amounts of vitamin C can cause diarrhea, nausea, and stomach cramps, and it might also cause false readings on blood sugar monitors, which are used by people with diabetes. In people with hemochromatosis (an iron overload disorder), high amounts of vitamin C might cause iron build-up in the body, which can damage body tissues.
+Vitamin C supplements might decrease the effectiveness of radiation therapy and chemotherapy.
+More information about vitamin C is available in the ODS consumer fact sheet on
+vitamin C
+.
+For information about vitamin C and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Vitamin D
+Vitamin D is an essential nutrient that is naturally present in fatty fish and fish liver oils and in small amounts in beef liver, egg yolks, and cheese. It’s also added to some foods, such as fortified milk. Your body can also make vitamin D when your skin is exposed to the sun. Vitamin D is important for healthy bones and immune function.
+The RDA ranges from 10 to 15 mcg (400 International Units [IU] to 600 IU) for infants, children, and teens, depending on age, and from 15 to 20 mcg (600 to 800 IU) for adults.
+Does it work?
+Flu, pneumonia, and other respiratory infections
+People with low vitamin D levels might be more likely to get respiratory infections and might have a higher chance of dying from these infections. Some studies suggest that taking vitamin D supplements regularly might slightly reduce the risk of getting a respiratory infection, especially in people with low vitamin D levels. However, other studies have not found that taking vitamin D supplements reduces the risk of respiratory infections. In addition, vitamin D supplements do not appear to help treat respiratory infections.
+HIV infection
+People with HIV have a higher risk of vitamin D deficiency partly because many HIV medications cause the body to break down vitamin D faster than normal. Having a vitamin D deficiency might also worsen HIV infection. However, studies haven’t shown that vitamin D supplements improve the health of people with HIV.
+Is it safe?
+Vitamin D is safe at daily intakes up to 25 to 100 mcg (1,000 to 4,000 IU) for infants, children, and teens, depending on age, and up to 100 mcg (4,000 IU) for adults. Taking higher amounts can cause nausea, vomiting, muscle weakness, confusion, pain, loss of appetite, dehydration, excessive urination and thirst, and kidney stones. Extremely high doses can cause kidney failure, damaged blood vessels and heart valves, heart rhythm problems, and death.
+Vitamin D supplements might interact with some medications such as orlistat (used for weight loss), statins (used to lower cholesterol levels), thiazide diuretics (used for high blood pressure), and steroids.
+More information about vitamin D is available in the ODS consumer fact sheet on
+vitamin D
+.
+For information about vitamin D and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Vitamin E
+Vitamin E (also called alpha-tocopherol) is an essential nutrient found in nuts, seeds, vegetable oils, and green leafy vegetables. It acts as an antioxidant and helps your immune system function properly. Vitamin E deficiency is rare.
+The RDA is 4 to 15 mg for infants, children, and teens, depending on age, and 15 to 19 mg for adults.
+Does it work?
+Pneumonia and other respiratory infections
+It’s not clear whether vitamin E supplements reduce the risk or severity of respiratory infections. Some studies have found that vitamin E supplements might help but others have not, and the effects might depend on whether someone has low vitamin E levels. One study in people who had normal vitamin E levels found that those who took high-dose vitamin E supplements had worse respiratory symptoms and were sick longer.
+Is it safe?
+Vitamin E from food is safe at any level. In supplements, vitamin E is safe at daily intakes up to 200 to 800 mg for children and teens, depending on age, and up to 1,000 mg for adults. Taking higher amounts can increase the risk of bleeding and stroke.
+Vitamin E supplements might interact with blood thinners and might reduce the effectiveness of radiation therapy and chemotherapy.
+More information about vitamin E is available in the ODS consumer fact sheet on
+vitamin E
+.
+For information about vitamin E and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Minerals
+Selenium
+Selenium is an essential mineral found in many foods, including Brazil nuts, seafood, meat, poultry, eggs, dairy products, bread, cereals, and other grain products. It acts as an antioxidant and is important for reproduction, thyroid gland function, and DNA production.
+The RDA ranges from 15 to 70 micrograms (mcg) for infants, children, and teens, depending on age, and from 55 to 70 mcg for adults.
+Does it work?
+HIV infection
+People with HIV have higher risk of selenium deficiency than other people, and this might worsen their infection and increase the risk of death. However, it’s not clear whether taking selenium supplements improves the health of people with HIV. Some studies have found that selenium supplements might improve immune function slightly in people with HIV, but other studies have not.
+Is it safe?
+Selenium is safe at daily intakes up to 45 to 400 mcg for infants, children, and teens, depending on age, and up to 400 mcg for adults. Taking higher amounts can cause a garlic odor in the breath, a metallic taste in the mouth, hair and nail loss or brittleness, skin rash, nausea, diarrhea, fatigue, irritability, and nervous system problems.
+Selenium might interact with cisplatin (a drug used in chemotherapy).
+More information about selenium is available in the ODS consumer fact sheet on
+selenium
+.
+For information about selenium and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Zinc
+Zinc is an essential nutrient found in seafood, meat, beans, nuts, whole grains, and dairy products. It’s important for a healthy immune system, making proteins and DNA, healing wounds, and for proper sense of taste.
+The RDA ranges from 2 to 13 mg for infants, children, and teens, depending on age, and from 8 to 12 mg for adults.
+Does it work?
+Common cold
+Some studies suggest that zinc lozenges and zinc syrup speed recovery from the common cold if you start taking them at the start of a cold. However, these products don’t seem to affect the severity of cold symptoms. More research is needed to determine the best dose and form of zinc for the common cold as well as how often and how long it should be taken.
+Pneumonia in children
+Some studies in lower income countries show that zinc supplements lower the risk of pneumonia in young children. However, zinc doesn’t seem to speed recovery or reduce the number of deaths from pneumonia.
+Diarrhea in children
+Studies show that zinc supplements help shorten the duration of diarrhea in children in low-income countries, where zinc deficiency is common. The World Health Organization and UNICEF recommend that children with diarrhea take zinc for 10 to 14 days (20 mg/day, or 10 mg/day for infants under 6 months). However, it’s not clear if zinc supplements help children with diarrhea who already get enough zinc, such as most children in the United States.
+HIV infection
+Many people with HIV have low zinc levels. This occurs because they have trouble absorbing zinc from food and they often have diarrhea, which increases zinc loss. Some studies have found that supplemental zinc decreases diarrhea and complications of HIV, but other studies have not. Zinc supplements do not appear to reduce the risk of death in people with HIV.
+Is it safe?
+Zinc is safe at daily intakes up to 4 to 34 mg for infants, children, and teens, depending on age, and up to 40 mg for adults. Taking higher amounts can cause nausea, vomiting, loss of appetite, stomach cramps, diarrhea, and headaches. High intakes of zinc over a long time can cause low blood levels of copper and impair immune function.
+Zinc supplements might interact with antibiotics, penicillamine (used to treat rheumatoid arthritis), and thiazide diuretics (used to treat high blood pressure).
+More information about zinc is available in the ODS consumer fact sheet on
+zinc
+.
+For information about zinc and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Botanicals
+Andrographis
+Andrographis is an herb native to Southeast Asia. It might help your body fight viruses, reduce inflammation, and strengthen your immune system.
+Does it work?
+Common cold and other respiratory infections
+Some studies have found that taking andrographis after getting a cold or other respiratory infection might lessen the severity of symptoms and shorten the length of time symptoms last. However, additional studies are needed to confirm these findings.
+Is it safe?
+No safety concerns have been reported when andrographis is used as directed. Side effects of andrographis can include nausea, vomiting, dizziness, skin rashes, diarrhea, and fatigue.
+Andrographis might decrease blood pressure and thin the blood, so it could interact with blood pressure and blood thinning medications.
+Andrographis might also decrease the effectiveness of medications that suppress the immune system. Andrographis might affect fertility, so some scientists recommend avoiding it if you are pregnant or planning to have a baby.
+For information about andrographis and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Echinacea
+Echinacea is an herb that grows in North America and Europe. It might help stop the growth or spread of some types of viruses and other germs. It might also help strengthen your immune system and reduce inflammation.
+Does it work?
+Common cold and flu
+Studies have found that echinacea might slightly reduce the risk of catching a cold, but it doesn’t reduce the severity of symptoms or shorten the length of time symptoms last.
+It’s unclear whether echinacea is helpful for the flu.
+Is it safe?
+Echinacea appears to be safe. Side effects can include stomach upset, diarrhea, trouble sleeping, and skin rashes. In rare cases, echinacea might cause allergic reactions.
+Echinacea might reduce the effectiveness of some medications, including medications that suppress the immune system. Scientists don’t know if echinacea is safe to take during pregnancy.
+For information about echinacea and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Elderberry (European Elder)
+Elderberry (or elder berry) is the fruit of a tree that grows in North America, Europe, and parts of Africa and Asia. Elderberry might help your body fight viruses and other germs, reduce inflammation, and strengthen your immune system.
+Does it work?
+Common cold and flu
+Elderberry doesn’t appear to reduce the risk of coming down with the common cold. However, some studies have found that elderberry might help relieve symptoms of colds and flu and help people recover quicker.
+Is it safe?
+Elderberry flowers and ripe fruit appear to be safe to eat. However, the bark, leaves, seeds, and raw or unripe elderberry fruit can be poisonous and can cause nausea, vomiting, diarrhea, and dehydration. Cooked elderberry fruit and properly manufactured supplements do not have this safety concern.
+Elderberry might affect insulin and blood sugar levels. It might also reduce the effectiveness of medications that suppress the immune system. Scientists don’t know if elderberry is safe to take during pregnancy.
+For information about elderberry and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Garlic
+Garlic is a vegetable that has been used in cooking throughout history. It is also available as a dietary supplement.
+Garlic might help your body fight viruses and other germs.
+Does it work?
+Common cold and flu
+Only a few studies have looked at whether garlic supplements help prevent the common cold or flu, and it’s not clear if garlic is helpful.
+Is it safe?
+Garlic is considered safe. Side effects can include bad breath, body odor, and skin rash.
+Garlic might interact with blood thinners and blood pressure medications.
+Ginseng
+Ginseng (
+Panax ginseng
+or
+Panax quinquefolius
+) is a plant used in traditional Chinese medicine. It might help your body fight viruses, reduce inflammation, and strengthen your immune system.
+Another botanical, eleuthero (
+Eleutherococus senticosus
+), has sometimes been called Siberian ginseng, but it is not related to true ginseng.
+Does it work?
+Common cold, flu, and other respiratory infections
+Ginseng might reduce the risk of coming down with the common cold, flu, or other respiratory infections. However, it’s unclear whether ginseng helps relieve symptoms or affects the length of time symptoms last.
+Is it safe?
+Ginseng appears to be safe. Side effects can include headache, trouble sleeping, and digestive upset. However, high doses (more than 2.5 grams [g]/day) of ginseng might cause insomnia, rapid heartbeat, high blood pressure, and nervousness.
+Ginseng might interact with diabetes medications, stimulants, and medications that suppress the immune system.
+For information about ginseng and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Tea and tea catechins
+Tea (
+Camellia sinensis
+) is a popular beverage that may have health benefits. Tea extracts are also available as dietary supplements.
+Green, black, and oolong tea leaves are processed in different ways. Green tea is made from dried and steamed tea leaves, and black and oolong teas are made from fermented tea leaves.
+Tea, especially green tea, has high amounts of substances called catechins. Catechins might help fight viruses and other germs.
+Does it work?
+Flu and other respiratory infections
+Based on only a few studies, it’s unclear whether tea or tea catechins are helpful for the flu or other respiratory infections. Some studies have found that tea and tea catechins might reduce the risk of coming down with upper respiratory infections. They might also reduce the length and severity of some symptoms but not other symptoms.
+Is it safe?
+Tea is safe to drink. Side effects of green tea extract can include nausea, constipation, stomach discomfort, and increased blood pressure. Some green tea extracts might damage your liver, especially if you take them on an empty stomach.
+Tea also contains caffeine, which can disturb your sleep and cause nervousness, jitteriness, and shakiness. Safe doses of caffeine for healthy adults are up to 400 to 500 mg/day and up to 200 mg/day for women who are pregnant.
+Tea might interact with atorvastatin (a cholesterol-lowering drug) and stimulants, such as bitter orange or ephedrine.
+Other Ingredients
+Glutamine
+Glutamine is an amino acid found in many foods including beef, fish, poultry, dried beans, eggs, rice, grains, and dairy products. Your body makes enough glutamine to meet your needs, except under rare conditions (for example, if you are critically ill in an intensive care unit [ICU] or have had major surgery).
+Glutamine helps your immune system work properly.
+Does it work?
+Critical illness (giving glutamine as an IV or tube feeding)
+It’s unclear whether glutamine helps people who are critically ill. Some studies in hospitalized patients who were critically ill or had undergone major surgery found that glutamine given as an IV or tube feeding reduced the risk of getting an infection, but it did not reduce the risk of death.
+Is it safe?
+Glutamine is considered safe. Side effects can include nausea, bloating, burping, pain, gas, and vomiting. These side effects are more likely to occur with higher doses of glutamine.
+No interactions between glutamine and medications have been reported.
+N-acetylcysteine and glutathione
+N-acetylcysteine (NAC) is similar to cysteine, an amino acid. It acts as an antioxidant and helps reduce mucus in the respiratory tract.
+NAC raises levels in your body of a substance called glutathione, which also acts as an antioxidant. NAC and glutathione might also help your body fight viruses and other germs, reduce inflammation, and strengthen your immune system.
+Does it work?
+HIV infection
+People with HIV may have low levels of glutathione, which might increase the risk of certain diseases including tuberculosis. However, there is very little research on NAC supplements in people with HIV. Therefore, scientists don’t know whether it’s helpful.
+Is it safe?
+NAC appears to be safe. Side effects can include nausea, vomiting, stomach pain, diarrhea, indigestion, and heartburn.
+NAC might interact with blood thinners and blood pressure medications. Taking NAC with nitroglycerine (used to treat chest pain) might cause low blood pressure and severe headaches.
+For information about NAC and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Omega-3 fatty acids
+Omega-3s are types of fats, including alpha linolenic acid (ALA), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA). ALA is found mainly in plant oils, such as flaxseed, soybean, and canola oils. EPA and DHA are found mainly in fatty fish and fish oils.
+Omega-3s are important for healthy cell membranes and proper function of the heart, lungs, brain, immune system, and endocrine system.
+The recommended amount of omega-3s for infants is 0.5 g per day, and 0.7 to 1.6 g per day of ALA for children, teens, and adults, depending on age. EPA and DHA do not have individual recommendations.
+Omega-3s might help your body fight viruses and other germs, reduce inflammation, and strengthen your immune system.
+Does it work?
+Acute respiratory distress syndrome (giving omega-3s as an IV or tube feeding)
+Acute respiratory distress syndrome (ARDS) is a serious lung condition that can lead to death. In people who do recover, ARDS often causes long-term physical and mental health problems.
+Researchers have studied whether giving omega-3s as an IV or tube feeding is helpful for people with ARDS, but results from these studies are not clear. Some studies have found that omega-3s given in this manner might help the lungs work better, but they don’t appear to lower the risk of dying from ARDS. In addition, it’s not clear whether omega-3s given in this manner affect the length of time people are hospitalized with ARDS and need a ventilator to help them breathe.
+Respiratory infections in infants and young children
+The immune system continues to develop in babies after birth, and their immune cells contain the omega-3s EPA and DHA. However, it’s not clear whether adding omega-3s to infant formula improves immune function or reduces the risk of getting respiratory infections.
+A study in school-age children found that children who consumed milk with added EPA and DHA had fewer upper respiratory infections than those who did not consume omega-3s. In another study, however, using an infant formula containing DHA and another fatty acid had no effect on the risk of respiratory infections in infants.
+Is it safe?
+Omega-3s are considered safe. Side effects can include a bad taste in the mouth, bad breath, heartburn, nausea, digestive discomfort, diarrhea, headache, and smelly sweat. Omega-3s might interact with blood thinners, blood pressure medications, and medications that suppress the immune system.
+More information about omega-3s is available in the ODS consumer fact sheet on
+omega-3 fatty acids
+.
+For information about omega-3s and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Probiotics
+Probiotics are live microorganisms (bacteria and yeasts) that provide health benefits. They are naturally present in certain fermented foods, added to some food products, and available as dietary supplements. Probiotics act mostly in the stomach and intestines. They might improve immune function and help fight viruses.
+Does it work?
+Acute diarrhea in infants and children
+Acute infectious diarrhea in infants and children causes loose or liquid stools and three or more bowel movements within 24 hours. This condition is often caused by a viral infection and can last for up to a week. Some infants and children also develop fever and vomiting. Some studies have shown that probiotics shorten acute diarrhea by about 1 day, but other studies do not.
+Some studies have reported that two strains of probiotics—
+Lactobacillus rhamnosus
+GG (LGG) and
+Saccharomyces boulardii
+—were most likely to benefit children with acute infectious diarrhea, but other studies have not.
+Common cold, flu, and other respiratory infections
+Probiotics might reduce the risk of some respiratory infections and shorten the length of illness. Some studies in infants, children, and adults have found that probiotics reduce the risk of getting a cold and help relieve some symptoms, such as fever and cough. Other studies in children reported fewer sick days from school and quicker recovery. However, formulations of probiotics vary, and the effects of one product may not be the same as another.
+Ventilator-associated pneumonia
+It’s not clear whether probiotics help people who are critically ill. Some studies have found that probiotics lower the risk of developing pneumonia in people who are critically ill and need a ventilator to help them breathe, but other studies have not.
+Is it safe?
+Probiotics are considered safe for most people. Side effects can include gas and other digestive symptoms. In people who are very ill or have immune system problems, probiotics might cause severe illness. Probiotics might also cause infections or even life-threatening illness in preterm infants. Although probiotics don’t appear to interact with medications, taking antibiotics or antifungal medications might decrease the effectiveness of some probiotics.
+More information about probiotics is available in the ODS consumer fact sheet on
+probiotics
+.
+For information about probiotics and COVID-19, see the ODS consumer fact sheet,
+Dietary Supplements in the Time of COVID-19
+.
+Do dietary supplements interact with medications or other supplements?
+Yes, some supplements can interact or interfere with medicines you take.
+Tell your doctor, pharmacist, and other health care providers about any dietary supplements and prescription or over-the-counter medicines you take. They can tell you if the dietary supplements might interact with your medicines or if the medicines might interfere with how your body absorbs, uses, or breaks down nutrients.
+Where can I find out more about dietary supplements and immune function?
+For general information on dietary supplements and immune function
+Office of Dietary Supplements (ODS)
+Health Professional Fact Sheet on Dietary Supplements for Immune Function and Infectious Diseases
+For more information on food sources of vitamins, minerals, and other nutrients
+U.S. Department of Agriculture’s
+FoodData Central
+For more information on herbs and botanicals
+Herbs at a Glance
+, National Center for Complementary and Integrative Health
+For advice on buying dietary supplements
+ODS
+Frequently Asked Questions: Which brand(s) of dietary supplements should I purchase?
+For information about building a healthy dietary pattern
+Dietary Guidelines for Americans
+Disclaimer
+This fact sheet by the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) provides information that should not take the place of medical advice. We encourage you to talk to your health care providers (doctor, registered dietitian, pharmacist, etc.) about your interest in, questions about, or use of dietary supplements and what may be best for your overall health. Any mention in this publication of a specific brand name is not an endorsement of the product.
+Glossary
+absorption
+In nutrition, the process of moving protein, carbohydrates, fats, and other nutrients from the digestive system into the bloodstream. Most absorption occurs in the small intestine.
+acute
+Sudden, severe, and not long lasting.
+adverse event
+An unwanted medical problem that occurs during treatment. Adverse events may be unrelated to the treatment or they may be caused by the therapy or procedure. For example, an adverse event may be caused by the toxic effects of a particular drug or dietary supplement or by an interaction with another therapy. Also called adverse effect and side effect.
+alpha-tocopherol
+The form of vitamin E that is found in the largest amount in humans and is the most active form of vitamin E. It is an antioxidant.
+amino acid
+A chemical building block of protein.
+antibiotic
+A drug used to treat infections caused by bacteria and other microorganisms.
+antioxidant
+A substance that protects cells from damage caused by free radicals (compounds formed during the metabolism of oxygen). It may help prevent the development of some chronic diseases such as cancer. Antioxidants include beta-carotene; lutein; lycopene; vitamins A, C, and E; selenium; and zinc.
+bacteria
+Single-celled organisms that are too small to be seen without a microscope. Bacteria are found everywhere and may be helpful or harmful.
+beta-carotene
+A carotenoid found in carrots, cantaloupe, apricots, sweet potatoes, pumpkin, winter squash, mangos, collard greens, spinach, kale, broccoli, and other orange, red, and dark green fruits and vegetables.
+blood sugar
+The main source of energy used by the body's cells. Blood sugar comes from food and is made by the liver, and is carried to the cells through the bloodstream. Also called blood glucose.
+blood vessel
+A tube through which blood circulates in the body. Blood vessels include a network of arteries, arterioles, capillaries, venules, and veins.
+botanical
+Having to do with plants or plant parts, or dietary supplement products made from plants.
+cancer
+A group of diseases in which cells divide abnormally and without control, and spread to nearby tissues and other parts of the body. Without treatment, cancer can stop organs from working normally, damage body systems, and cause the patient to die. Cancer may be caused by multiple factors, such as radiation, sunlight, tobacco, certain viruses, and poisonous chemicals; however, the cause of many cancers is unknown.
+carotenoids
+A group of pigments that naturally occur in some plants, algae, and bacteria. They are responsible for the yellow, orange, and red colors in plant foods, such as carrots, red peppers, pumpkin, beets, and sweet potatoes. Carotenoids are also found in spinach, collards, kale, mustard greens, and other dark green leafy vegetables. Common carotenoids include alpha-carotene, beta-carotene, beta-cryptoxanthin, lycopene, lutein, and zeaxanthin..
+cell
+The individual unit that makes up the tissues of the body. All living things are made up of one or more cells, which are the smallest units of living structure capable of independent existence.
+cell membrane
+An envelope that contains the contents of a cell and controls what passes into and out of the cell.
+chemotherapy
+A chemical that kills bacteria, viruses, fungi, or tumor cells. It usually refers to drugs used in cancer treatment.
+cholesterol
+A substance found throughout the body. It is made by the liver and is an important component of cells. Cholesterol is also used to make hormones, bile acid, and vitamin D. Foods that come from animals contain cholesterol, including eggs, dairy products, meat, poultry and fish. High blood levels of cholesterol increase a person's chance (risk) of developing atherosclerosis and heart disease.
+collagen
+A strong, flexible protein found in cartilage, tendons, bone, skin, and other connective tissue.
+common cold
+A nose and throat infection caused by a virus. Symptoms include runny nose, sneezing, congestion, sore throat, and cough.
+complication
+In medicine, an illness or condition that occurs while a patient has a disease. The complication is not a part of the disease, but may be a result of the disease or may be unrelated.
+constipation
+A condition in which stool becomes hard, dry, and difficult to pass and bowel movements happen infrequently. Other symptoms may include painful bowel movements and feeling bloated, uncomfortable, and sluggish.
+consume
+To eat or drink.
+copper
+In nutrition, a mineral the body needs (along with iron) to make red blood cells. Copper also helps keep the immune system, blood vessels, nerves, and bones healthy. Copper is found in some foods, including oysters and other shellfish, whole grains, beans, nuts, potatoes, organ meats, dark leafy greens, and dried fruits.
+dairy food
+Milk and products made with milk, such as buttermilk, yogurt, cheese, cottage cheese, and ice cream.
+deficiency
+An amount that is not enough; a shortage.
+deoxyribonucleic acid
+DNA. The molecules inside cells that carry genetic information and pass it from one generation to the next.
+diabetes
+A disease in which blood sugar (glucose) levels are high because the body is unable to use glucose properly. Diabetes occurs when the body does not make enough insulin, which helps the cells use glucose, or when the body no longer responds to insulin.
+diarrhea
+Loose, watery stools.
+dietary supplement
+A product that is intended to supplement the diet. A dietary supplement contains one or more dietary ingredients (including vitamins, minerals, herbs or other botanicals, amino acids, and other substances) or their components; is intended to be taken by mouth as a pill, capsule, tablet, or liquid; and is identified on the front label of the product as being a dietary supplement.
+digestive tract
+The large, muscular tube that extends from the mouth to the anus, in which hormones, enzymes, and the movement of muscles work together to digest food. Also called the gastrointestinal (GI) tract.
+disorder
+In medicine, a disturbance of normal functioning of the mind or body. Disorders may be caused by genetic factors, disease, or trauma.
+distress
+Mental or physical pain or suffering.
+diuretic
+A drug or other substance that increases the amount of urine made by the body.
+dose
+The amount of medicine or other substance taken at one time or over a specific period of time.
+drug
+Any substance (other than food) that is used to prevent, diagnose, treat, or relieve symptoms of a disease or abnormal condition. Also, a substance that alters mood or body function or that can be habit-forming or addictive, especially a narcotic.
+duration
+The length of time that something lasts.
+echinacea
+A plant that is native to North America. Traditionally, it has been used for colds, flu, and other infections.
+effectiveness
+In medicine, the ability of an intervention (for example, a drug, surgery, or a dietary supplement) to produce the desired beneficial effect under the usual conditions of care by a health care provider.
+endocrine system
+Hormone-producing glands that affect growth and development, hunger, metabolism (chemical changes in the body), sleep, sexual function, and mood. The endocrine system includes the thyroid gland, pituitary gland, adrenal gland, parathyroid glands, adrenal glands, pancreas, ovaries, and testicles.
+essential
+In nutrition, essential nutrients are ones that we must consume for good health because our bodies cannot make them. Essential nutrients include vitamins and minerals.
+extract
+A substance made by soaking an herb in a liquid that removes specific types of chemicals. The liquid can be used as is or evaporated to make a concentrate or a dry extract for use in capsules or tablets.
+fatigue
+Extreme tiredness and an inability to function due to lack of energy.
+folate
+A general term for the various forms of folic acid, a B vitamin. Folate is needed to make DNA, RNA, and amino acids. It occurs naturally in foods and is found in leafy green vegetables (such as spinach and turnip greens), fruits (such as citrus fruits and juices), and dried beans and peas. The synthetic (manufactured) form of folate used in supplements and fortified foods is called folic acid.
+fortified
+When nutrients (such as vitamins and minerals) are added to a food product. For example, when calcium is added to orange juice, the orange juice is said to be "fortified with calcium". Similarly, many breakfast cereals are "fortified" with several vitamins and minerals.
+gland
+A small organ that makes and releases a substance such as sweat, tears, saliva, milk, a hormone, or substances that aid in digestion.
+glutamine
+A chemical that increases the number of messages sent between nerve cells. It is thought to be involved in learning and memory.
+gram
+g. A measure of weight. It is a metric unit of mass equal to 0.001 kilogram (it weighs 0.035 ounce).
+health care provider
+A person who supplies health care services. Health care providers include individuals with professional training (including doctors, nurses, technicians, and aides).
+heart rhythm
+The regular beating of the heart as it moves blood throughout the body.
+hemochromatosis
+A condition in which the body absorbs more iron than it needs and stores it in the liver, heart, and pancreas. Hemochromatosis causes liver disease, heart problems, and organ failure.
+herb
+A plant used in cooking, in tea, and for medicinal purposes.
+herbal
+Having to do with or made from medicinal or edible plants.
+high blood pressure
+A blood pressure measurement of 140/90 mmHg (millimeters of mercury) or higher is considered high blood pressure (hypertension). Blood pressure is the force of blood pushing against the walls of the arteries. Blood pressure measurements are written as two numbers, for example 120/80. The first number (the systolic pressure) measures the pressure when the heart beats and pumps out blood into the arteries. The second number (the diastolic pressure) measures the pressure when the heart is at rest between beats. High blood pressure is a condition that occurs when a person's blood pressure often measures above 140/90 or regularly stays at that level or higher. This condition usually has no symptoms but can be life-threatening. It damages the arteries and increases the chance of stroke, heart attack, kidney failure, and blindness. Also called hypertension.
+immune function
+Substances made and action taken by cells that fight disease and infection.
+immune system
+A group of organs and cells that defends the body against infection, disease, and altered (mutated) cells. It includes the thymus, spleen, lymphatic system (lymph nodes and lymph vessels), bone marrow, tonsils, and white blood cells.
+infant
+A child younger than 12 months old.
+infant formula
+An artificial form of breast milk.
+infection
+The invasion and spread of germs in the body. The germs may be bacteria, viruses, yeast, or fungi.
+inflammation
+Redness, swelling, pain, and/or a feeling of heat in an area of the body. It is a protective reaction to injury, disease, or irritation of tissues.
+ingredient
+In a dietary supplement, an ingredient is a component of the product, such as the main nutrient (vitamin, mineral, herb, amino acid, or enzyme) or any binder, color, filler flavor, or sweetener. In herbal supplements, the common name and Latin name (the  genus and species) of the plant is given in the ingredient list. On a dietary supplement label, the ingredients are listed by weight, with the ingredient used in the largest amount first on the list and the ingredient used in the least amount at the end of the list.
+insomnia
+Difficulty in going to sleep or in getting enough sleep.
+interaction
+A change in the way a dietary supplement acts in the body when taken with certain other supplements, medicines, or foods, or when taken with certain medical conditions. Interactions may cause the dietary supplement to be more or less effective, or cause effects on the body that are not expected.
+International Unit
+IU. A measurement used to measure the activity of some vitamins and other biological substances (such as enzymes and hormones).
+intestine
+The section of the digestive tract below the stomach, including the small and large intestines, rectum, and anus.
+intravenous
+Into or within a vein, such as an intravenous injection.
+iodine
+A mineral the body needs to make thyroid hormones, which control metabolism (the process of turning the food you eat into energy your body can use) and many other essential functions, including bone and brain development during pregnancy and infancy. Iodine is found in seaweed, seafood, dairy products, grain products, eggs, and iodized salt.
+iron
+In nutrition, a mineral the body needs to make red blood cells, proteins, and enzymes; and for the control of cell growth and cell specialization. Iron is found in some foods, including red meats, fish, poultry, lentils, and beans.
+IU
+International Unit. A measurement used to measure the activity of some vitamins and other biological substances (such as enzymes and hormones).
+kidney failure
+Loss of kidney function.  When kidney failure is caused by an acute (sudden and short-term) condition, such as a traumatic injury or poisoning, the kidneys may be able to recover. Usually, however, kidney failure is caused by chronic (long-term) conditions such as high blood pressure and diabetes. Chronic diseases permanently damage kidney tissue; treatments include dialysis and kidney transplantation.
+kidney stone
+A “pebble” that forms in a kidney from salts and minerals in the urine. A small kidney stone is able to pass out of the body; a large stone may block the urinary tract and require medical help.
+liver
+A large organ located in the right upper abdomen. It stores nutrients that come from food, makes chemicals needed by the body, and breaks down some medicines and harmful substances so they can be removed from the body.
+lozenge
+A small, hard candy containing medicine that is dissolved in the mouth.
+lung
+An organ in the chest that supplies oxygen to the body and removes carbon dioxide. There are two lungs in the body.
+lymphoma
+Cancer that develops in cells of your immune system, called lymphocytes. Lymphocytes are a type of white blood cell.
+magnesium
+In nutrition, a mineral the body needs for normal muscles, nerves, and bones. It also helps keep a steady heart rhythm, a healthy immune system, normal blood sugar levels and blood pressure, and is involved in making energy and protein for the body. Magnesium is found in some foods, including green vegetables, beans and peas, nuts and seeds, and whole grains.
+measles
+A group of diseases of the respiratory tract caused by a virus. Measles is highly contagious and spreads easily from person to person through coughing or sneezing. Symptoms include fever, cough, red and irritated eyes, and a spreading rash. Serious complications include pneumonia, inflammation of the brain, and death. One form called German measles may cause births defects in a fetus if a woman is infected early in her pregnancy.
+medical history
+Information about a person’s health, such as allergies, illnesses, surgeries, medications, immunizations, and the results of tests and physical exams. It may also include information about health habits, such as diet and exercise, and health information about current and past illnesses of one’s parents and other close family members.
+microgram
+µg or mcg. A unit of weight in the metric system equal to one millionth of a gram. (A gram is approximately one-thirtieth of an ounce.)
+microorganism
+A living being that can be seen only through a microscope. Microorganisms include helpful and harmful bacteria, protozoa, algae, and fungi. Although viruses are not considered living organisms, they are sometimes classified as microorganisms.
+milligram
+mg. A measure of weight. It is a metric unit of mass equal to 0.001 gram (it weighs 28,000 times less than an ounce).
+mineral
+In nutrition, an inorganic substance found in the earth that is required to maintain health.
+nausea
+The uneasy feeling of having an urge to throw up (vomit).
+nervous system
+The brain and spinal cord, including the network of nerves that carry messages back and forth between the brain and all parts of the body. The nervous system controls what the body does.
+nutrient
+A chemical compound in food that is used by the body to function and maintain health. Examples of nutrients include proteins, fats, carbohydrates, vitamins, and minerals.
+Office of Dietary Supplements
+ODS, Office of Disease Prevention, Office of Director, National Institutes of Health, Department of Health and Human Services.  ODS strengthens knowledge and understanding of dietary supplements by evaluating scientific information, stimulating and supporting research, disseminating research results, and educating the public to foster an enhanced quality of life and health for the US population.
+pharmacist
+A person licensed to make and dispense (give out) prescription drugs and who has been taught how they work, how to use them, and their side effects.
+pneumonia
+Inflammation of one or both lungs. Bacteria, viruses, fungi, parasites, other germs, and injury can cause the lungs to become inflamed and fill with fluid. Symptoms can appear suddenly, range from mild to severe, and may include fever, chills, chest pain, cough, shortness of breath, and difficult breathing. Anyone can develop pneumonia, but it is especially dangerous in babies, older people, and people with weakened immune systems, lung disease, heart disease, or diabetes.
+poultry
+Birds that are raised for eggs or meat, including chickens, turkeys, ducks, and geese.
+prescription
+A written order from a health care provider for medicine, therapy, or tests.
+prevent
+To stop from happening.
+protein
+A molecule made up of amino acids that the body needs for good health. Proteins are the basis of body structures such as skin and muscle, and substances such as enzymes and antibodies.
+provitamin
+A substance found in some foods that the body can use to make a vitamin. An example of a provitamin is beta-carotene, which the body uses to make vitamin A. Also called a vitamin precursor.
+psoriasis
+A chronic inflammatory disease in which the skin becomes swollen, red, and itchy, with patches of silvery-white scales.
+radiation therapy
+The use of high-energy radiation from x-rays and other sources to kill cancer cells, shrink tumors, and treat other conditions.
+Recommended Dietary Allowance
+RDA. The average amount of a nutrient a healthy person should get each day. RDAs vary by age, gender and whether a woman is pregnant or breastfeeding.  For example, the RDA for vitamin C is 80 mg a day for a pregnant teenager and 90 mg a day for men. RDAs are developed by the Food and Nutrition Board at the Institute of Medicine of the National Academies.
+respiratory
+Having to do with breathing. The organs that are involved with breathing include the mouth, nose, throat (pharynx), voicebox (larynx), windpipe (trachea), air passages between the windpipe and lungs (bronchial tubes), and lungs.
+respiratory tract
+The organs that are involved in breathing. These include the mouth, nose, throat (pharynx), voicebox (larynx), windpipe (trachea), air passages between the windpipe and lungs (bronchial tubes), and lungs. Also called the respiratory system.
+retinol
+A form of vitamin A found only in foods that come from animals. The body can use retinol to make retinal and retinoic acid (other forms of vitamin A). Retinol is found in some foods, including beef liver, whole eggs, whole milk, margarine, and some fortified food products such as breakfast cereals. Retinol is a retinoid. Also called preformed vitamin A.
+Retinol Activity Equivalent
+RAE. A measure of the content and activity of vitamin A in foods.
+rheumatoid arthritis
+An autoimmune disease that causes pain, swelling, and stiffness in the joints. It may cause severe joint damage, loss of function, and disability. The disease may last from months to a lifetime, and symptoms may improve and worsen over time.
+risk
+The chance or probability that a harmful event will occur. In health, for example,  the chance that someone will develop a disease or condition.
+scientific literature
+Published peer-reviewed original research in the sciences and social sciences.
+selenium
+A mineral required in very small amounts to make important enzymes that are essential for good health. Selenium is found in some foods, including plant foods grown in selenium-rich soil, and some meats and seafood.
+soy
+A plant that produces beans used in many food products. Soy products contain isoflavones (estrogen-like substances) that are being studied in the prevention of cancer, hot flashes that occur with menopause, and osteoporosis (loss of bone density). Also called soya and soybean. Latin name:
+Glycine max
+.
+statin
+A drug used to treat high cholesterol. Statins lower the amount of cholesterol and certain fats in the blood.
+stimulant
+A substance that increases brain activity, alertness, attention, blood pressure, heart rate, breathing, and energy.
+stool
+The waste matter passed in a bowel movement; feces.
+stroke
+A loss of blood flow to part of the brain. Strokes are caused by blood clots or broken blood vessels in the brain, and result in damage to a section of brain tissue. Symptoms include dizziness, numbness, weakness on one side of the body, and problems with talking or understanding language. The chance (risk) of stroke is increased by high blood pressure, older age, smoking, diabetes, high cholesterol, heart disease, a family history of stroke, and a build-up of fatty material inside the coronary arteries (atherosclerosis). See also NIH publication: Know Stroke. Know the Signs. Act in Time.
+http://www.ninds.nih.gov/disorders/stroke/knowstroke.htm
+supplement
+A nutrient that may be added to the diet to increase the intake of that nutrient. Sometimes used to mean dietary supplement.
+symptom
+A feeling of sickness that an individual can sense, but that cannot be measured by a healthcare professional. Examples include headache, tiredness, stomach ache, depression, and pain.
+tea
+A drink made by adding boiling water to fresh or dried herbs and steeping (soaking) them. It may be drunk either hot or cold. Also called an infusion.
+thiazide diuretic
+A drug used in the treatment of high blood pressure and swelling caused by excess fluid in body tissues (edema). It increases the amount of urine made by the body.
+thyroid
+A gland located in the front of the neck, below the larynx (Adam’s apple). The thyroid makes hormones that circulate in the bloodstream and affect brain development, metabolism, weight, breathing, heart rate, blood pressure, nervous system functions, body temperature, muscle strength, skin dryness, menstrual cycles, and cholesterol levels.
+tissue
+A group or layer of cells in a living organism that work together to perform a specific function.
+treat
+To care for a patient with a disease by using medicine, surgery, or other approaches.
+Tube feeding
+A way of giving medicines and liquids, including liquid foods, through a tube that goes to the stomach or small intestine.
+tuberculosis
+A disease caused by a specific type of bacteria that spreads from one person to another through the air. Tuberculosis can affect many parts of the body, but most often affects the lungs. A person may not have symptoms of tuberculosis for years, but they may appear when the patient becomes ill with a serious condition like diabetes, AIDS, or cancer. Tuberculosis can usually be treated and cured with antibiotics. Also called TB.
+UNICEF
+An organization of the United Nations that provides food, clothing, health care, and support to women and children.
+upper limit
+UL. The largest daily intake of a nutrient considered safe for most people. Taking more than the UL is not recommended and may be harmful. The UL for each nutrient is set by the Food and Nutrition Board at the National Academies of Sciences, Engineering, and Medicine. For example, the UL for vitamin A is 3,000 micrograms/day. Women who consume more than this amount every day shortly before or during pregnancy have an increased chance (risk) of having a baby with a birth defect. Also called the tolerable upper intake level.
+Ventilator
+In medicine, a machine used to help a patient breathe. Also called respirator.
+virus
+An organism that can grow and multiply only inside the cells of living humans, plants, or animals. It is able to change (mutate) as it multiplies, which makes viral illnesses difficult to treat. Viruses cause many infections and diseases such as the common cold, AIDS (acquired immunodeficiency syndrome), herpes, and hepatitis.
+vitamin
+A nutrient that the body needs in small amounts to function and maintain health. Examples are vitamins A, C, and E.
+vitamin A
+A general term for a group of compounds that includes provitamin A carotenoids (found in foods that come from plants) and retinol (preformed vitamin A found in foods that come from animals). The body can use retinol  to make retinal and retinoic acid (other forms of vitamin A). Vitamin A plays an important role in vision, bone growth, reproduction, immunity, cell development, and skin health. Vitamin A is found in some foods, including eggs, liver, fortified milk, cheese, leafy green vegetables (such as spinach, kale, turnip greens, collards, and romaine lettuce), broccoli, dark orange fruits and vegetables (such as apricots, carrots, pumpkin, sweet potatoes, papaya, mango, and cantaloupe), and red bell pepper.
+vitamin C
+A nutrient needed by the body to make collagen (a protein found in cartilage, tendons, ligaments, bone, and blood vessels), to absorb iron from food, and for wound healing. It is an antioxidant and protects cells from free radical damage. Vitamin C is found in some foods including citrus fruits, strawberries, peppers, dark green vegetables, tomatoes, and potatoes. Also called ascorbic acid.
+vitamin D
+A nutrient that is obtained from the diet and can be made in the skin after exposure to sunlight. Vitamin D acts as a hormone. It helps to form and maintain strong bones, maintain normal blood levels of calcium and phosphorus, and increase calcium absorption; it also helps to maintain a healthy immune system and control cell growth. Vitamin D is found in some foods, including some types of fatty fish, and milk and breakfast cereals that are fortified with vitamin D.
+vitamin E
+A nutrient needed by the body to help keep the immune system healthy and to repair damage to DNA. It is an antioxidant that protects cells from free radical damage. Vitamin E is found in some foods, including vegetable oils, nuts and seeds, fortified breakfast cereals, and spinach, broccoli, kiwi, and mangos.
+white blood cell
+WBC. A cell made by the bone marrow that helps the body fight infection and disease. WBCs include lymphocytes, neutrophils, eosinophils, macrophages, and mast cells.
+whole grain
+Unprocessed seeds of edible grasses, including brown rice, buckwheat, bulgur, millet, popcorn, oats, quinoa, whole-grain barley, whole rye, whole wheat, and wild rice. Grains that are ground, cracked, or flaked can be labeled whole grain if they have the same amount of bran, germ, and endosperm (the inner part of the seed kernel) as the intact grain. Whole grains are sources of iron, magnesium, selenium, B vitamins, and dietary fiber. Eating whole grains may help lower the risk of heart disease, obesity, and type 2 diabetes.
+World Health Organization
+WHO. An agency of the United Nations that is concerned with worldwide health.
+zinc
+A mineral found in most cells of the body. It helps enzymes work properly, helps maintain a healthy immune system, helps maintain the senses of taste and smell, and is needed for wound healing, making DNA, and normal growth and development during pregnancy, childhood, and adolescence. Zinc is found in some foods, including oysters, red meat, poultry, beans, nuts, certain seafood, whole grains, fortified breakfast cereals, and dairy products.
+Updated:
+March 10, 2025
